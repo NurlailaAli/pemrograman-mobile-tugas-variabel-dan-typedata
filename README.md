@@ -16,7 +16,6 @@ Cara Perhitungan:
 - Gaji bersih = gaji kotor - pajak  
 
 ## Cara Menjalankan Program
-## Cara Menjalankan Program
 Untuk menjalankan program ini, ikuti langkah-langkah berikut:
 1. Clone repository dari GitHub:
    git clone https://github.com/NurlailaAli/pemrograman-mobile-tugas-variabel-dan-typedata.git

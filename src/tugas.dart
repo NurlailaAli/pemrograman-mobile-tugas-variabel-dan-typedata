@@ -2,12 +2,12 @@ void main() {
   String namaKaryawan = "Nurlaila Alii";
   int jamKerja = 30;
   double upahPerJam = 50000;
-  bool statusKaryawan = true;
+  bool statusTetap = true;
 
   double gajiKotor = jamKerja * upahPerJam;
 
   double pajak;
-  if (statusKaryawan) {
+  if (statusTetap) {
     pajak = 0.10 * gajiKotor;
   } else {
     pajak = 0.05 * gajiKotor;
