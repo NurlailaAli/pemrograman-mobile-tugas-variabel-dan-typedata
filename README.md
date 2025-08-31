@@ -19,7 +19,7 @@ Cara Perhitungan:
 ## Cara Menjalankan Program
 Untuk menjalankan program ini, ikuti langkah-langkah berikut:
 1. Clone repository dari GitHub:
-   git clone https://github.com/username/pemrograman-mobile-tugas-variabel-dan-typedata.git
+   git clone https://github.com/NurlailaAli/pemrograman-mobile-tugas-variabel-dan-typedata.git
 2. Masuk ke folder project:
 cd pemrograman-mobile-tugas-variabel-dan-typedata/src
 3. Jalankan program dengan perintah:
